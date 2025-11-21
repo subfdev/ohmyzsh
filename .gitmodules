@@ -1,0 +1,6 @@
+[submodule "custom/plugins/zsh-autosuggestions"]
+	path = custom/plugins/zsh-autosuggestions
+	url = git@github.com:subfdev/zsh-autosuggestions.git
+[submodule "custom/plugins/zsh-syntax-highlighting"]
+	path = custom/plugins/zsh-syntax-highlighting
+	url = git@github.com:subfdev/zsh-syntax-highlighting.git
